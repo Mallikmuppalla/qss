@@ -4,6 +4,7 @@
     "myec2":
 	{
 	 "Type": "AWS::EC2::Instance",
+		aws=ec2,vpc,vpn,s3,lamada,iam,ebk,ebc this is the new commend
 	 "Properties":
 	 {
 	  "InstanceType": "t2.micro",
