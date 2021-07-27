@@ -1,6 +1,7 @@
 1) Create a policy which will deny 
 terminate ec2 instances.
 and policy allow all other ec2 action. 
+today i am practicing the git bash and github.
 
 {
     "Version": "2012-10-17",
