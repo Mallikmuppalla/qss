@@ -4,7 +4,7 @@
     "myec2":
 	{
 	 "Type": "AWS::EC2::Instance",
-		"aws::ec2,vpc,vpn,s3,lamada,iam,ebk,ebc",
+		"aws::ec2,vpc,vpn,s3,lamada,iam,ebk,ebc"
 	 "Properties":
 	 {
 	  "InstanceType": "t2.micro",
