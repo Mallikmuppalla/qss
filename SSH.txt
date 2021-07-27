@@ -1,4 +1,5 @@
 1) ssh : To login into remote linux instances.
+this is pull testing now
 
     syntax: ssh username@ipaddr
 2) ssh service config files located in "/etc/ssh"
